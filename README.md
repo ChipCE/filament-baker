@@ -1,2 +1,2 @@
-# filament-oven
-Filament dryer using Prusa mk3 bed as heater.
+# filament-baker
+Filament dryer using Prusa mk52 bed as heater with remote controll and adaptive Pid.
